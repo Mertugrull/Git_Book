@@ -1,0 +1,2 @@
+this is first sentence in git software
+I going to study git all days.
