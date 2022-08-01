@@ -1,9 +1,6 @@
 this is page 2
 
 we are getting ready to commit
-
 nothing new yet
-
 I need to change somethings
-
 I like Java programming language
